@@ -1,0 +1,5 @@
+.idea
+.gradle
+hugo-content
+build
+.DS_Store
